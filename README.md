@@ -4,4 +4,4 @@
 
 ## Installation
 Install python
-Run `pip install -r requirements.txt`
+- Run `pip install -r requirements.txt`

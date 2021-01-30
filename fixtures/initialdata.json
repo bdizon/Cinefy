@@ -1,0 +1,2312 @@
+[
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.13116150000000001,
+            "joy": 0.318596,
+            "fear": 0.2217225,
+            "disgust": 0.3578155,
+            "anger": 0.0680205,
+            "title": "Frankenstein"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.0515715,
+            "joy": 0.2948115,
+            "fear": 0.032238,
+            "disgust": 0.0273955,
+            "anger": 0.1131025,
+            "title": "Duck Soup"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.34674466666666665,
+            "joy": 0.04993066666666667,
+            "fear": 0.2486786666666667,
+            "disgust": 0.089236,
+            "anger": 0.3810156666666667,
+            "title": "King Kong"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.427516,
+            "joy": 0.25277299999999997,
+            "fear": 0.196216,
+            "disgust": 0.08958250000000001,
+            "anger": 0.096945,
+            "title": "It Happened One Night"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.2586845,
+            "joy": 0.268897,
+            "fear": 0.32883150000000005,
+            "disgust": 0.15371800000000002,
+            "anger": 0.133079,
+            "title": "Ninotchka"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.3538655,
+            "joy": 0.253953,
+            "fear": 0.0390835,
+            "disgust": 0.0887225,
+            "anger": 0.1445465,
+            "title": "His Girl Friday"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.177356,
+            "joy": 0.38077550000000004,
+            "fear": 0.1119745,
+            "disgust": 0.104271,
+            "anger": 0.0549875,
+            "title": "Citizen Kane"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.422883,
+            "joy": 0.041891,
+            "fear": 0.22194200000000003,
+            "disgust": 0.087696,
+            "anger": 0.20420649999999999,
+            "title": "Double Indemnity"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.035573,
+            "joy": 0.24911799999999998,
+            "fear": 0.0674755,
+            "disgust": 0.038335,
+            "anger": 0.068273,
+            "title": "It's a Wonderful Life"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.17802400000000002,
+            "joy": 0.288258,
+            "fear": 0.0869,
+            "disgust": 0.004883500000000001,
+            "anger": 0.05219599999999999,
+            "title": "All About Eve"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.1831215,
+            "joy": 0.2757765,
+            "fear": 0.124025,
+            "disgust": 0.2017265,
+            "anger": 0.3103895,
+            "title": "Sunset Blvd."
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.1057255,
+            "joy": 0.583488,
+            "fear": 0.114269,
+            "disgust": 0.14847749999999998,
+            "anger": 0.144186,
+            "title": "Strangers on a Train"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.33145375000000005,
+            "joy": 0.29195024999999997,
+            "fear": 0.17197175,
+            "disgust": 0.10777575,
+            "anger": 0.0919865,
+            "title": "From Here to Eternity"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.2175535,
+            "joy": 0.2718885,
+            "fear": 0.22397450000000002,
+            "disgust": 0.109434,
+            "anger": 0.3393,
+            "title": "Rear Window"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.222852,
+            "joy": 0.3562185,
+            "fear": 0.0349035,
+            "disgust": 0.050670999999999994,
+            "anger": 0.24433500000000002,
+            "title": "Marty"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.1914525,
+            "joy": 0.246779,
+            "fear": 0.148644,
+            "disgust": 0.2721265,
+            "anger": 0.174358,
+            "title": "Bad Day at Black Rock"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.311257,
+            "joy": 0.022447,
+            "fear": 0.0869875,
+            "disgust": 0.0386765,
+            "anger": 0.1099555,
+            "title": "Sweet Smell of Success"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.169102,
+            "joy": 0.159092,
+            "fear": 0.1019945,
+            "disgust": 0.107515,
+            "anger": 0.081305,
+            "title": "Psycho"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.0985995,
+            "joy": 0.7406335,
+            "fear": 0.053918999999999995,
+            "disgust": 0.0507655,
+            "anger": 0.057387499999999994,
+            "title": "Peeping Tom"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.005191,
+            "joy": 0.0256545,
+            "fear": 1.5e-06,
+            "disgust": 0.0,
+            "anger": 0.0,
+            "title": "Mary Poppins"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.1795245,
+            "joy": 0.256082,
+            "fear": 0.1951455,
+            "disgust": 0.242599,
+            "anger": 0.2200495,
+            "title": "Shame"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.133592,
+            "joy": 0.038084,
+            "fear": 0.22535899999999998,
+            "disgust": 0.16948100000000002,
+            "anger": 0.1346595,
+            "title": "Midnight Cowboy"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.0769845,
+            "joy": 0.1016145,
+            "fear": 0.1689865,
+            "disgust": 0.0349185,
+            "anger": 0.179871,
+            "title": "Five Easy Pieces"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.048850000000000005,
+            "joy": 0.190607,
+            "fear": 0.133065,
+            "disgust": 0.204515,
+            "anger": 0.101892,
+            "title": "Klute"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.0865035,
+            "joy": 0.490768,
+            "fear": 0.047566,
+            "disgust": 0.056803000000000006,
+            "anger": 0.048808500000000005,
+            "title": "Get Carter"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.183059,
+            "joy": 0.232466,
+            "fear": 0.048414,
+            "disgust": 0.002937,
+            "anger": 0.052455,
+            "title": "Solaris"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.32079066666666667,
+            "joy": 0.28378233333333336,
+            "fear": 0.161298,
+            "disgust": 0.12932066666666667,
+            "anger": 0.18621733333333335,
+            "title": "Last Tango in Paris"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.326235,
+            "joy": 0.3378745,
+            "fear": 0.055139,
+            "disgust": 0.0888415,
+            "anger": 0.1048295,
+            "title": "Badlands"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.4480145,
+            "joy": 0.127557,
+            "fear": 0.2185335,
+            "disgust": 0.24457449999999997,
+            "anger": 0.1278805,
+            "title": "American Graffiti"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.19333450000000002,
+            "joy": 0.2131715,
+            "fear": 0.10662450000000001,
+            "disgust": 0.452515,
+            "anger": 0.0616145,
+            "title": "Mean Streets"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.19324049999999998,
+            "joy": 0.468063,
+            "fear": 0.14753999999999998,
+            "disgust": 0.060584,
+            "anger": 0.161897,
+            "title": "Chinatown"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.165339,
+            "joy": 0.14051,
+            "fear": 0.065753,
+            "disgust": 0.059327,
+            "anger": 0.07109649999999999,
+            "title": "Barry Lyndon"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.3545875,
+            "joy": 0.119671,
+            "fear": 0.17370100000000002,
+            "disgust": 0.09909899999999999,
+            "anger": 0.5176815,
+            "title": "Dog Day Afternoon"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.2413305,
+            "joy": 0.16057300000000002,
+            "fear": 0.1643085,
+            "disgust": 0.2792035,
+            "anger": 0.195463,
+            "title": "One Flew Over the Cuckoo's Nest"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.1535155,
+            "joy": 0.071561,
+            "fear": 0.213101,
+            "disgust": 0.017971,
+            "anger": 0.108205,
+            "title": "Nashville"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.335747,
+            "joy": 0.2071075,
+            "fear": 0.1525195,
+            "disgust": 0.27635299999999996,
+            "anger": 0.173975,
+            "title": "Jaws"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.16314499999999998,
+            "joy": 0.031559000000000004,
+            "fear": 0.2901115,
+            "disgust": 0.0693515,
+            "anger": 0.233505,
+            "title": "All the President's Men"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.1331565,
+            "joy": 0.1074815,
+            "fear": 0.088362,
+            "disgust": 0.203411,
+            "anger": 0.0156475,
+            "title": "Carrie"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.28153433333333333,
+            "joy": 0.08740166666666666,
+            "fear": 0.10011833333333332,
+            "disgust": 0.13080099999999997,
+            "anger": 0.1730486666666667,
+            "title": "Taxi Driver"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.21329033333333336,
+            "joy": 0.13107833333333332,
+            "fear": 0.16880433333333333,
+            "disgust": 0.08413433333333332,
+            "anger": 0.14149166666666665,
+            "title": "Rocky"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.0290835,
+            "joy": 0.344166,
+            "fear": 0.0213225,
+            "disgust": 0.1023325,
+            "anger": 0.03477,
+            "title": "Annie Hall"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.37302100000000005,
+            "joy": 0.1050085,
+            "fear": 0.20298950000000002,
+            "disgust": 0.083897,
+            "anger": 0.19663150000000001,
+            "title": "Halloween"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.1875965,
+            "joy": 0.114261,
+            "fear": 0.2166165,
+            "disgust": 0.107944,
+            "anger": 0.2135225,
+            "title": "Dawn of the Dead"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.035764,
+            "joy": 0.1651425,
+            "fear": 0.179252,
+            "disgust": 0.103978,
+            "anger": 0.0988415,
+            "title": "Breaking Away"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.207677,
+            "joy": 0.054805999999999994,
+            "fear": 0.0757215,
+            "disgust": 0.0683225,
+            "anger": 0.06364349999999999,
+            "title": "Alien"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.0694165,
+            "joy": 0.0847005,
+            "fear": 0.1080205,
+            "disgust": 0.0428025,
+            "anger": 0.058438,
+            "title": "Being There"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.17633000000000001,
+            "joy": 0.1567445,
+            "fear": 0.025097,
+            "disgust": 0.032820499999999996,
+            "anger": 0.174072,
+            "title": "Apocalypse Now"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.1092595,
+            "joy": 0.3276835,
+            "fear": 0.0352055,
+            "disgust": 0.014885,
+            "anger": 0.036873,
+            "title": "Ordinary People"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.15136550000000001,
+            "joy": 0.11741650000000001,
+            "fear": 0.1588965,
+            "disgust": 0.016997500000000002,
+            "anger": 0.1997875,
+            "title": "Raging Bull"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.171946,
+            "joy": 0.2674795,
+            "fear": 0.0736415,
+            "disgust": 0.3769975,
+            "anger": 0.2748105,
+            "title": "Body Heat"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.124566,
+            "joy": 0.5469630000000001,
+            "fear": 0.1317655,
+            "disgust": 0.1579805,
+            "anger": 0.08442849999999999,
+            "title": "Fast Times at Ridgemont High"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.25233900000000004,
+            "joy": 0.047101,
+            "fear": 0.1363035,
+            "disgust": 0.09764400000000001,
+            "anger": 0.1815665,
+            "title": "Blade Runner"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.09268950000000001,
+            "joy": 0.340427,
+            "fear": 0.1482445,
+            "disgust": 0.0342375,
+            "anger": 0.30166899999999996,
+            "title": "Diner"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.313915,
+            "joy": 0.1572375,
+            "fear": 0.2892015,
+            "disgust": 0.044071,
+            "anger": 0.1786105,
+            "title": "Gandhi"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.1078175,
+            "joy": 0.614798,
+            "fear": 0.014381,
+            "disgust": 0.1962955,
+            "anger": 0.150661,
+            "title": "Scarface"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.0923345,
+            "joy": 0.47554399999999997,
+            "fear": 0.156559,
+            "disgust": 0.21472950000000002,
+            "anger": 0.156462,
+            "title": "Ghostbusters"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.408731,
+            "joy": 0.174906,
+            "fear": 0.15455000000000002,
+            "disgust": 0.120934,
+            "anger": 0.21823550000000003,
+            "title": "Amadeus"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.182696,
+            "joy": 0.2201395,
+            "fear": 0.1921365,
+            "disgust": 0.2270775,
+            "anger": 0.112505,
+            "title": "Brazil"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.04552,
+            "joy": 0.022313,
+            "fear": 0.018889,
+            "disgust": 0.000363,
+            "anger": 0.165445,
+            "title": "Manhunter"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.4541005,
+            "joy": 0.333742,
+            "fear": 0.236076,
+            "disgust": 0.0775705,
+            "anger": 0.0521725,
+            "title": "Blue Velvet"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.0680625,
+            "joy": 0.1853285,
+            "fear": 0.191792,
+            "disgust": 0.06850600000000001,
+            "anger": 0.17368299999999998,
+            "title": "Platoon"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.297353,
+            "joy": 0.21500599999999997,
+            "fear": 0.169238,
+            "disgust": 0.2063255,
+            "anger": 0.2344515,
+            "title": "Aliens"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.1627895,
+            "joy": 0.16440300000000002,
+            "fear": 0.080959,
+            "disgust": 0.0483395,
+            "anger": 0.12314449999999999,
+            "title": "Top Gun"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.0912975,
+            "joy": 0.0545145,
+            "fear": 0.040901,
+            "disgust": 0.200176,
+            "anger": 0.3399745,
+            "title": "Raising Arizona"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.07345,
+            "joy": 0.31528249999999997,
+            "fear": 0.0485715,
+            "disgust": 0.056283,
+            "anger": 0.019432500000000002,
+            "title": "Broadcast News"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.396525,
+            "joy": 0.1597835,
+            "fear": 0.078458,
+            "disgust": 0.111459,
+            "anger": 0.148982,
+            "title": "Moonstruck"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.033329,
+            "joy": 0.4607765,
+            "fear": 0.016225,
+            "disgust": 0.005229,
+            "anger": 0.094725,
+            "title": "Wall Street"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.12372249999999999,
+            "joy": 0.2854295,
+            "fear": 0.1317845,
+            "disgust": 0.1308905,
+            "anger": 0.49941050000000003,
+            "title": "Bull Durham"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.255677,
+            "joy": 0.119547,
+            "fear": 0.0989085,
+            "disgust": 0.1015905,
+            "anger": 0.271279,
+            "title": "Cinema Paradiso"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.203208,
+            "joy": 0.128026,
+            "fear": 0.16423500000000002,
+            "disgust": 0.2336975,
+            "anger": 0.3160775,
+            "title": "Big"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.365274,
+            "joy": 0.201164,
+            "fear": 0.145708,
+            "disgust": 0.0642525,
+            "anger": 0.16647699999999999,
+            "title": "Die Hard"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.21629299999999999,
+            "joy": 0.040794,
+            "fear": 0.0296845,
+            "disgust": 0.121582,
+            "anger": 0.132657,
+            "title": "Batman"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.2378245,
+            "joy": 0.1611485,
+            "fear": 0.0640215,
+            "disgust": 0.12063800000000001,
+            "anger": 0.099282,
+            "title": "Field of Dreams"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.183928,
+            "joy": 0.3937445,
+            "fear": 0.100351,
+            "disgust": 0.069443,
+            "anger": 0.1115665,
+            "title": "Pretty Woman"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.2778695,
+            "joy": 0.2721945,
+            "fear": 0.138276,
+            "disgust": 0.175903,
+            "anger": 0.3417365,
+            "title": "Dances with Wolves"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.30410550000000003,
+            "joy": 0.42569900000000005,
+            "fear": 0.0676605,
+            "disgust": 0.094078,
+            "anger": 0.127907,
+            "title": "Total Recall"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.3767165,
+            "joy": 0.0957385,
+            "fear": 0.162013,
+            "disgust": 0.0571205,
+            "anger": 0.1314455,
+            "title": "Edward Scissorhands"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.29982050000000005,
+            "joy": 0.13624150000000002,
+            "fear": 0.174005,
+            "disgust": 0.110545,
+            "anger": 0.31320099999999995,
+            "title": "Jacob's Ladder"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.1019805,
+            "joy": 0.5460745,
+            "fear": 0.0805195,
+            "disgust": 0.275507,
+            "anger": 0.0683895,
+            "title": "Thelma & Louise"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.11589050000000001,
+            "joy": 0.4156745,
+            "fear": 0.115376,
+            "disgust": 0.0749725,
+            "anger": 0.4276805,
+            "title": "Reservoir Dogs"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.2069675,
+            "joy": 0.439989,
+            "fear": 0.1482085,
+            "disgust": 0.090945,
+            "anger": 0.2148,
+            "title": "Philadelphia"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.200148,
+            "joy": 0.1859615,
+            "fear": 0.043379,
+            "disgust": 0.0234755,
+            "anger": 0.16522399999999998,
+            "title": "Schindler's List"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.40742100000000003,
+            "joy": 0.310529,
+            "fear": 0.196791,
+            "disgust": 0.095686,
+            "anger": 0.0827465,
+            "title": "Groundhog Day"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.077291,
+            "joy": 0.08969200000000001,
+            "fear": 0.10493050000000001,
+            "disgust": 0.012967000000000001,
+            "anger": 0.25727,
+            "title": "Jurassic Park"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.122902,
+            "joy": 0.3982485,
+            "fear": 0.10727500000000001,
+            "disgust": 0.09033250000000001,
+            "anger": 0.3237525,
+            "title": "Heavenly Creatures"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.2503225,
+            "joy": 0.17416399999999999,
+            "fear": 0.11294200000000001,
+            "disgust": 0.28483400000000003,
+            "anger": 0.1371195,
+            "title": "Pulp Fiction"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.455384,
+            "joy": 0.2017285,
+            "fear": 0.1648705,
+            "disgust": 0.232142,
+            "anger": 0.17914950000000002,
+            "title": "Natural Born Killers"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.11007866666666666,
+            "joy": 0.228259,
+            "fear": 0.038275333333333335,
+            "disgust": 0.050498666666666664,
+            "anger": 0.208252,
+            "title": "Clerks"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.1787,
+            "joy": 0.28714900000000004,
+            "fear": 0.0677015,
+            "disgust": 0.053297,
+            "anger": 0.115436,
+            "title": "Forrest Gump"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.2989095,
+            "joy": 0.204152,
+            "fear": 0.073378,
+            "disgust": 0.121064,
+            "anger": 0.2243095,
+            "title": "Braveheart"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.1659215,
+            "joy": 0.367202,
+            "fear": 0.180858,
+            "disgust": 0.1398165,
+            "anger": 0.2092095,
+            "title": "Se7en"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.0012495,
+            "joy": 0.0261895,
+            "fear": 4.5e-06,
+            "disgust": 0.0,
+            "anger": 0.0,
+            "title": "Clueless"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.4134875,
+            "joy": 0.047064499999999995,
+            "fear": 0.146711,
+            "disgust": 0.1719425,
+            "anger": 0.2500205,
+            "title": "Heat"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.164887,
+            "joy": 0.0371655,
+            "fear": 0.18974149999999998,
+            "disgust": 0.0932895,
+            "anger": 0.273267,
+            "title": "Toy Story"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.16630250000000002,
+            "joy": 0.4747475,
+            "fear": 0.1355665,
+            "disgust": 0.233093,
+            "anger": 0.0621135,
+            "title": "Casino"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.148989,
+            "joy": 0.044347500000000005,
+            "fear": 0.6690039999999999,
+            "disgust": 0.1588165,
+            "anger": 0.164685,
+            "title": "Strange Days"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.322781,
+            "joy": 0.0567765,
+            "fear": 0.450373,
+            "disgust": 0.1579,
+            "anger": 0.32286950000000003,
+            "title": "Trainspotting"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.13653300000000002,
+            "joy": 0.1197155,
+            "fear": 0.126683,
+            "disgust": 0.046767500000000004,
+            "anger": 0.132044,
+            "title": "Fargo"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.3416765,
+            "joy": 0.11445550000000002,
+            "fear": 0.133685,
+            "disgust": 0.1716095,
+            "anger": 0.17213050000000002,
+            "title": "Scream"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.009722,
+            "joy": 0.014505,
+            "fear": 0.005695,
+            "disgust": 0.0004635,
+            "anger": 0.0760735,
+            "title": "Lone Star"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.045442,
+            "joy": 0.2391295,
+            "fear": 0.09566050000000001,
+            "disgust": 0.0597425,
+            "anger": 0.039335499999999995,
+            "title": "Independence Day"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.2182375,
+            "joy": 0.118124,
+            "fear": 0.252706,
+            "disgust": 0.027142,
+            "anger": 0.14514000000000002,
+            "title": "Boogie Nights"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.129307,
+            "joy": 0.5320745,
+            "fear": 0.149553,
+            "disgust": 0.159104,
+            "anger": 0.059018,
+            "title": "Titanic"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.20947300000000002,
+            "joy": 0.31946949999999996,
+            "fear": 0.10239399999999999,
+            "disgust": 0.1141755,
+            "anger": 0.27750050000000004,
+            "title": "Kundun"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.3448375,
+            "joy": 0.09645899999999999,
+            "fear": 0.085181,
+            "disgust": 0.023997499999999998,
+            "anger": 0.05286,
+            "title": "Pi"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.0310375,
+            "joy": 0.037385,
+            "fear": 0.4075065,
+            "disgust": 0.065252,
+            "anger": 0.0798745,
+            "title": "There's Something About Mary"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.131233,
+            "joy": 0.2098855,
+            "fear": 0.054918499999999995,
+            "disgust": 0.0551735,
+            "anger": 0.1328235,
+            "title": "Being John Malkovich"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.17478,
+            "joy": 0.041613,
+            "fear": 0.0861285,
+            "disgust": 0.154884,
+            "anger": 0.23291849999999997,
+            "title": "Three Kings"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.1401215,
+            "joy": 0.174219,
+            "fear": 0.147872,
+            "disgust": 0.2338355,
+            "anger": 0.224438,
+            "title": "Magnolia"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.107298,
+            "joy": 0.0450325,
+            "fear": 0.1456415,
+            "disgust": 0.1436595,
+            "anger": 0.21890400000000002,
+            "title": "Fight Club"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.1551615,
+            "joy": 0.4122835,
+            "fear": 0.149656,
+            "disgust": 0.0215385,
+            "anger": 0.29215250000000004,
+            "title": "American Beauty"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.2224425,
+            "joy": 0.3911605,
+            "fear": 0.360016,
+            "disgust": 0.072898,
+            "anger": 0.0791975,
+            "title": "Gladiator"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.25450900000000004,
+            "joy": 0.09275666666666667,
+            "fear": 0.10366433333333334,
+            "disgust": 0.31328599999999995,
+            "anger": 0.22428266666666666,
+            "title": "Memento"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.082283,
+            "joy": 0.102498,
+            "fear": 0.027918,
+            "disgust": 0.0742085,
+            "anger": 0.0544515,
+            "title": "Crouching Tiger, Hidden Dragon"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.1212025,
+            "joy": 0.08763599999999999,
+            "fear": 0.06833600000000001,
+            "disgust": 0.102648,
+            "anger": 0.27970300000000003,
+            "title": "Traffic"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.12474099999999999,
+            "joy": 0.28295750000000003,
+            "fear": 0.0298745,
+            "disgust": 0.0540295,
+            "anger": 0.154801,
+            "title": "Mulholland Drive"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.20822649999999998,
+            "joy": 0.060005499999999996,
+            "fear": 0.0685795,
+            "disgust": 0.3141005,
+            "anger": 0.348103,
+            "title": "Gangs of New York"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.16365200000000002,
+            "joy": 0.5223805,
+            "fear": 0.0755275,
+            "disgust": 0.062359500000000005,
+            "anger": 0.16904550000000002,
+            "title": "Lost in Translation"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.4003095,
+            "joy": 0.233893,
+            "fear": 0.1239825,
+            "disgust": 0.23476750000000002,
+            "anger": 0.118048,
+            "title": "Crash"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.1398705,
+            "joy": 0.159695,
+            "fear": 0.06933,
+            "disgust": 0.519411,
+            "anger": 0.2845025,
+            "title": "Sideways"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.17543066666666665,
+            "joy": 0.16071866666666665,
+            "fear": 0.14197333333333334,
+            "disgust": 0.11817499999999999,
+            "anger": 0.2861843333333333,
+            "title": "Babel"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.346179,
+            "joy": 0.185959,
+            "fear": 0.068546,
+            "disgust": 0.068303,
+            "anger": 0.069633,
+            "title": "Into the Wild"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.214444,
+            "joy": 0.253406,
+            "fear": 0.17606349999999998,
+            "disgust": 0.183647,
+            "anger": 0.2472885,
+            "title": "No Country for Old Men"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.14149533333333333,
+            "joy": 0.22445199999999998,
+            "fear": 0.108725,
+            "disgust": 0.06141333333333334,
+            "anger": 0.16226933333333335,
+            "title": "Slumdog Millionaire"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.3249885,
+            "joy": 0.19220275000000003,
+            "fear": 0.10893,
+            "disgust": 0.17333775,
+            "anger": 0.21051324999999999,
+            "title": "Avatar"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.12400366666666666,
+            "joy": 0.541939,
+            "fear": 0.029178333333333334,
+            "disgust": 0.09536533333333334,
+            "anger": 0.041751666666666666,
+            "title": "An Education"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.21345250000000002,
+            "joy": 0.1290665,
+            "fear": 0.260922,
+            "disgust": 0.09461900000000001,
+            "anger": 0.057901499999999995,
+            "title": "In the Loop"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.24998199999999998,
+            "joy": 0.113437,
+            "fear": 0.131111,
+            "disgust": 0.22223099999999998,
+            "anger": 0.15314350000000002,
+            "title": "Inglourious Basterds"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.32979,
+            "joy": 0.061681,
+            "fear": 0.23532,
+            "disgust": 0.216734,
+            "anger": 0.403044,
+            "title": "Black Swan"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.240613,
+            "joy": 0.158496,
+            "fear": 0.15484,
+            "disgust": 0.2261456666666667,
+            "anger": 0.12265100000000001,
+            "title": "Inception"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.028573,
+            "joy": 0.1674845,
+            "fear": 0.132263,
+            "disgust": 0.060841,
+            "anger": 0.0584,
+            "title": "True Grit"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.2051425,
+            "joy": 0.39433050000000003,
+            "fear": 0.12003249999999999,
+            "disgust": 0.0524815,
+            "anger": 0.0577125,
+            "title": "Drive"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.19168866666666665,
+            "joy": 0.17164366666666667,
+            "fear": 0.07552166666666667,
+            "disgust": 0.04945233333333333,
+            "anger": 0.07412933333333334,
+            "title": "War Horse"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.1795245,
+            "joy": 0.256082,
+            "fear": 0.1951455,
+            "disgust": 0.242599,
+            "anger": 0.2200495,
+            "title": "Shame"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.18785133333333334,
+            "joy": 0.15335333333333334,
+            "fear": 0.283874,
+            "disgust": 0.09075833333333333,
+            "anger": 0.3036206666666667,
+            "title": "Tinker Tailor Soldier Spy"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.1816886666666667,
+            "joy": 0.27423833333333336,
+            "fear": 0.082416,
+            "disgust": 0.08802033333333333,
+            "anger": 0.14153533333333332,
+            "title": "Bridesmaids"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.26033249999999997,
+            "joy": 0.161083,
+            "fear": 0.078512,
+            "disgust": 0.0969165,
+            "anger": 0.13298300000000002,
+            "title": "Amour"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.19600433333333334,
+            "joy": 0.03772833333333333,
+            "fear": 0.13466566666666666,
+            "disgust": 0.19646833333333333,
+            "anger": 0.13866333333333333,
+            "title": "Lincoln"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.041684,
+            "joy": 0.258458,
+            "fear": 0.02279,
+            "disgust": 0.1153325,
+            "anger": 0.0780715,
+            "title": "Django Unchained"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.12959949999999998,
+            "joy": 0.21583449999999998,
+            "fear": 0.1939545,
+            "disgust": 0.121894,
+            "anger": 0.15337,
+            "title": "Life of Pi"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.1703665,
+            "joy": 0.121198,
+            "fear": 0.037215,
+            "disgust": 0.100277,
+            "anger": 0.0533815,
+            "title": "Argo"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.143098,
+            "joy": 0.45199350000000005,
+            "fear": 0.0387235,
+            "disgust": 0.1233785,
+            "anger": 0.1006235,
+            "title": "Gravity"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.204586,
+            "joy": 0.11304,
+            "fear": 0.305927,
+            "disgust": 0.287156,
+            "anger": 0.291612,
+            "title": "12 Years a Slave"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.3289485,
+            "joy": 0.09094425,
+            "fear": 0.1712435,
+            "disgust": 0.19457725,
+            "anger": 0.27533075,
+            "title": "American Hustle"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.052059,
+            "joy": 0.22153649999999997,
+            "fear": 0.095792,
+            "disgust": 0.0805725,
+            "anger": 0.08487600000000001,
+            "title": "Leviathan"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.1471855,
+            "joy": 0.202989,
+            "fear": 0.11514924999999998,
+            "disgust": 0.05157575,
+            "anger": 0.105152,
+            "title": "Boyhood"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.200148,
+            "joy": 0.1859615,
+            "fear": 0.043379,
+            "disgust": 0.0234755,
+            "anger": 0.16522399999999998,
+            "title": "Schindler's List"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.2503225,
+            "joy": 0.17416399999999999,
+            "fear": 0.11294200000000001,
+            "disgust": 0.28483400000000003,
+            "anger": 0.1371195,
+            "title": "Pulp Fiction"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.107298,
+            "joy": 0.0450325,
+            "fear": 0.1456415,
+            "disgust": 0.1436595,
+            "anger": 0.21890400000000002,
+            "title": "Fight Club"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.1787,
+            "joy": 0.28714900000000004,
+            "fear": 0.0677015,
+            "disgust": 0.053297,
+            "anger": 0.115436,
+            "title": "Forrest Gump"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.240613,
+            "joy": 0.158496,
+            "fear": 0.15484,
+            "disgust": 0.2261456666666667,
+            "anger": 0.12265100000000001,
+            "title": "Inception"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.2413305,
+            "joy": 0.16057300000000002,
+            "fear": 0.1643085,
+            "disgust": 0.2792035,
+            "anger": 0.195463,
+            "title": "One Flew Over the Cuckoo's Nest"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.1659215,
+            "joy": 0.367202,
+            "fear": 0.180858,
+            "disgust": 0.1398165,
+            "anger": 0.2092095,
+            "title": "Se7en"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.035573,
+            "joy": 0.24911799999999998,
+            "fear": 0.0674755,
+            "disgust": 0.038335,
+            "anger": 0.068273,
+            "title": "It's a Wonderful Life"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.1924945,
+            "joy": 0.22290224999999997,
+            "fear": 0.08883225,
+            "disgust": 0.064586,
+            "anger": 0.165286,
+            "title": "Interstellar"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.1305035,
+            "joy": 0.200273,
+            "fear": 0.37524199999999996,
+            "disgust": 0.2204375,
+            "anger": 0.3298335,
+            "title": "Saving Private Ryan"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.53975,
+            "joy": 0.0641755,
+            "fear": 0.10677249999999999,
+            "disgust": 0.2199475,
+            "anger": 0.2838515,
+            "title": "American History X"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.169102,
+            "joy": 0.159092,
+            "fear": 0.1019945,
+            "disgust": 0.107515,
+            "anger": 0.081305,
+            "title": "Psycho"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.2175535,
+            "joy": 0.2718885,
+            "fear": 0.22397450000000002,
+            "disgust": 0.109434,
+            "anger": 0.3393,
+            "title": "Rear Window"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.25450900000000004,
+            "joy": 0.09275666666666667,
+            "fear": 0.10366433333333334,
+            "disgust": 0.31328599999999995,
+            "anger": 0.22428266666666666,
+            "title": "Memento"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.2224425,
+            "joy": 0.3911605,
+            "fear": 0.360016,
+            "disgust": 0.072898,
+            "anger": 0.0791975,
+            "title": "Gladiator"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.17633000000000001,
+            "joy": 0.1567445,
+            "fear": 0.025097,
+            "disgust": 0.032820499999999996,
+            "anger": 0.174072,
+            "title": "Apocalypse Now"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.1831215,
+            "joy": 0.2757765,
+            "fear": 0.124025,
+            "disgust": 0.2017265,
+            "anger": 0.3103895,
+            "title": "Sunset Blvd."
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.207677,
+            "joy": 0.054805999999999994,
+            "fear": 0.0757215,
+            "disgust": 0.0683225,
+            "anger": 0.06364349999999999,
+            "title": "Alien"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.255677,
+            "joy": 0.119547,
+            "fear": 0.0989085,
+            "disgust": 0.1015905,
+            "anger": 0.271279,
+            "title": "Cinema Paradiso"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.041684,
+            "joy": 0.258458,
+            "fear": 0.02279,
+            "disgust": 0.1153325,
+            "anger": 0.0780715,
+            "title": "Django Unchained"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.1551615,
+            "joy": 0.4122835,
+            "fear": 0.149656,
+            "disgust": 0.0215385,
+            "anger": 0.29215250000000004,
+            "title": "American Beauty"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.297353,
+            "joy": 0.21500599999999997,
+            "fear": 0.169238,
+            "disgust": 0.2063255,
+            "anger": 0.2344515,
+            "title": "Aliens"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.177356,
+            "joy": 0.38077550000000004,
+            "fear": 0.1119745,
+            "disgust": 0.104271,
+            "anger": 0.0549875,
+            "title": "Citizen Kane"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.11589050000000001,
+            "joy": 0.4156745,
+            "fear": 0.115376,
+            "disgust": 0.0749725,
+            "anger": 0.4276805,
+            "title": "Reservoir Dogs"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.2989095,
+            "joy": 0.204152,
+            "fear": 0.073378,
+            "disgust": 0.121064,
+            "anger": 0.2243095,
+            "title": "Braveheart"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.422883,
+            "joy": 0.041891,
+            "fear": 0.22194200000000003,
+            "disgust": 0.087696,
+            "anger": 0.20420649999999999,
+            "title": "Double Indemnity"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.28153433333333333,
+            "joy": 0.08740166666666666,
+            "fear": 0.10011833333333332,
+            "disgust": 0.13080099999999997,
+            "anger": 0.1730486666666667,
+            "title": "Taxi Driver"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.0626305,
+            "joy": 0.1650345,
+            "fear": 0.045212,
+            "disgust": 0.273817,
+            "anger": 0.1112565,
+            "title": "Eternal Sunshine of the Spotless Mind"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.408731,
+            "joy": 0.174906,
+            "fear": 0.15455000000000002,
+            "disgust": 0.120934,
+            "anger": 0.21823550000000003,
+            "title": "Amadeus"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.164887,
+            "joy": 0.0371655,
+            "fear": 0.18974149999999998,
+            "disgust": 0.0932895,
+            "anger": 0.273267,
+            "title": "Toy Story"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.24998199999999998,
+            "joy": 0.113437,
+            "fear": 0.131111,
+            "disgust": 0.22223099999999998,
+            "anger": 0.15314350000000002,
+            "title": "Inglourious Basterds"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.17802400000000002,
+            "joy": 0.288258,
+            "fear": 0.0869,
+            "disgust": 0.004883500000000001,
+            "anger": 0.05219599999999999,
+            "title": "All About Eve"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.1078175,
+            "joy": 0.614798,
+            "fear": 0.014381,
+            "disgust": 0.1962955,
+            "anger": 0.150661,
+            "title": "Scarface"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.2896705,
+            "joy": 0.18046099999999998,
+            "fear": 0.25790799999999997,
+            "disgust": 0.2308755,
+            "anger": 0.2708395,
+            "title": "Up"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.15136550000000001,
+            "joy": 0.11741650000000001,
+            "fear": 0.1588965,
+            "disgust": 0.016997500000000002,
+            "anger": 0.1997875,
+            "title": "Raging Bull"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.19324049999999998,
+            "joy": 0.468063,
+            "fear": 0.14753999999999998,
+            "disgust": 0.060584,
+            "anger": 0.161897,
+            "title": "Chinatown"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.365274,
+            "joy": 0.201164,
+            "fear": 0.145708,
+            "disgust": 0.0642525,
+            "anger": 0.16647699999999999,
+            "title": "Die Hard"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.11113100000000001,
+            "joy": 0.3244905,
+            "fear": 0.036262,
+            "disgust": 0.0272555,
+            "anger": 0.111652,
+            "title": "Good Will Hunting"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.4134875,
+            "joy": 0.047064499999999995,
+            "fear": 0.146711,
+            "disgust": 0.1719425,
+            "anger": 0.2500205,
+            "title": "Heat"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.25233900000000004,
+            "joy": 0.047101,
+            "fear": 0.1363035,
+            "disgust": 0.09764400000000001,
+            "anger": 0.1815665,
+            "title": "Blade Runner"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.16630250000000002,
+            "joy": 0.4747475,
+            "fear": 0.1355665,
+            "disgust": 0.233093,
+            "anger": 0.0621135,
+            "title": "Casino"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.1757683333333333,
+            "joy": 0.4646443333333334,
+            "fear": 0.16399833333333333,
+            "disgust": 0.04554366666666667,
+            "anger": 0.14986200000000002,
+            "title": "Warrior"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.405365,
+            "joy": 0.305857,
+            "fear": 0.10396749999999999,
+            "disgust": 0.1913725,
+            "anger": 0.0863035,
+            "title": "Gran Torino"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.3529595,
+            "joy": 0.025807499999999997,
+            "fear": 0.2672235,
+            "disgust": 0.46905800000000003,
+            "anger": 0.206589,
+            "title": "V for Vendetta"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.254988,
+            "joy": 0.178478,
+            "fear": 0.1377995,
+            "disgust": 0.0876515,
+            "anger": 0.1007115,
+            "title": "How to Train Your Dragon"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.13653300000000002,
+            "joy": 0.1197155,
+            "fear": 0.126683,
+            "disgust": 0.046767500000000004,
+            "anger": 0.132044,
+            "title": "Fargo"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.322781,
+            "joy": 0.0567765,
+            "fear": 0.450373,
+            "disgust": 0.1579,
+            "anger": 0.32286950000000003,
+            "title": "Trainspotting"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.427516,
+            "joy": 0.25277299999999997,
+            "fear": 0.196216,
+            "disgust": 0.08958250000000001,
+            "anger": 0.096945,
+            "title": "It Happened One Night"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.346179,
+            "joy": 0.185959,
+            "fear": 0.068546,
+            "disgust": 0.068303,
+            "anger": 0.069633,
+            "title": "Into the Wild"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.0632355,
+            "joy": 0.796656,
+            "fear": 0.054004,
+            "disgust": 0.039203,
+            "anger": 0.004743,
+            "title": "Rush"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.2973655,
+            "joy": 0.237712,
+            "fear": 0.0722705,
+            "disgust": 0.1995865,
+            "anger": 0.1915505,
+            "title": "Finding Nemo"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.214444,
+            "joy": 0.253406,
+            "fear": 0.17606349999999998,
+            "disgust": 0.183647,
+            "anger": 0.2472885,
+            "title": "No Country for Old Men"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.5078136666666667,
+            "joy": 0.06285666666666667,
+            "fear": 0.129024,
+            "disgust": 0.19593533333333335,
+            "anger": 0.254588,
+            "title": "Hotel Rwanda"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.0680625,
+            "joy": 0.1853285,
+            "fear": 0.191792,
+            "disgust": 0.06850600000000001,
+            "anger": 0.17368299999999998,
+            "title": "Platoon"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.204586,
+            "joy": 0.11304,
+            "fear": 0.305927,
+            "disgust": 0.287156,
+            "anger": 0.291612,
+            "title": "12 Years a Slave"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.0290835,
+            "joy": 0.344166,
+            "fear": 0.0213225,
+            "disgust": 0.1023325,
+            "anger": 0.03477,
+            "title": "Annie Hall"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.313915,
+            "joy": 0.1572375,
+            "fear": 0.2892015,
+            "disgust": 0.044071,
+            "anger": 0.1786105,
+            "title": "Gandhi"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.1057255,
+            "joy": 0.583488,
+            "fear": 0.114269,
+            "disgust": 0.14847749999999998,
+            "anger": 0.144186,
+            "title": "Strangers on a Train"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.077291,
+            "joy": 0.08969200000000001,
+            "fear": 0.10493050000000001,
+            "disgust": 0.012967000000000001,
+            "anger": 0.25727,
+            "title": "Jurassic Park"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.335747,
+            "joy": 0.2071075,
+            "fear": 0.1525195,
+            "disgust": 0.27635299999999996,
+            "anger": 0.173975,
+            "title": "Jaws"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.40742100000000003,
+            "joy": 0.310529,
+            "fear": 0.196791,
+            "disgust": 0.095686,
+            "anger": 0.0827465,
+            "title": "Groundhog Day"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.165339,
+            "joy": 0.14051,
+            "fear": 0.065753,
+            "disgust": 0.059327,
+            "anger": 0.07109649999999999,
+            "title": "Barry Lyndon"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.21329033333333336,
+            "joy": 0.13107833333333332,
+            "fear": 0.16880433333333333,
+            "disgust": 0.08413433333333332,
+            "anger": 0.14149166666666665,
+            "title": "Rocky"
+        }
+    },
+    {
+        "model": "learning.MovieSentiment",
+        "fields" : {
+            "sadness": 0.3545875,
+            "joy": 0.119671,
+            "fear": 0.17370100000000002,
+            "disgust": 0.09909899999999999,
+            "anger": 0.5176815,
+            "title": "Dog Day Afternoon"
+        }
+    }
+]

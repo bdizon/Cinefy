@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<div class="fixed-top">
+    <nav class="navbar navbar-light bg-light justify-content-between">
+        <span class="navbar-text">
+            <a href={% url 'home' %}>
+                Cinefy
+            </a>
+        </span>
+        <a class="btn btn-outline-danger my-2 my-sm-0" href={% url 'logout' %} role="button">Log out</a>
+    </nav>
+</div>
+<div style="max-width:700px;margin:auto;">
+    <div style="margin-top: 100px; margin-bottom: 50px">
+        {% block page-content %}
+        {% endblock %}
+    </div>
+</div>
+<nav class="navbar navbar-expand-sm fixed-bottom navbar-dark bg-dark">
+    <a class="navbar-brand" href={% url 'new' %}>Cinefy</a>
+    <div class="collapse navbar-collapse">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+                <a href={% url 'learning-home' %} class="nav-link">Training</a>
+                
+            </li>
+            <li class="nav-item active">
+                <a href={% url 'learning-reverse' %} class="nav-link">Reverse</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+{% endblock %}

@@ -1,0 +1,5 @@
+apikey = '0Yb7tSR8SsrLbX6LlcBYHzuK7zlMhjSCFN1aQW409W3m'
+url = 'https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/8acaca3c-073b-4ebd-8ecc-6e0085a2e9e4'
+SPOTIFY_WEB_PLAYBACK_SDK_TOKEN = 'BQB9OyWit_TZW8eHl1Y_Bad94cOnjPbwol-gs_uDwLFCeb3nlVIHHpf9BNSOE7vR7YbwEYvhTwPdooIxyfL8NPv7v-Q9ltYR78DhgBhUEUTMA7N_Dj5q_rCrWsX8Im7FVloHAweQq5qpxg7hPDx4iowS'
+base_url = 'http://localhost:8000/'
+omdb_key = '6c46141b'
